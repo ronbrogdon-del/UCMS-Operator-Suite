@@ -1,0 +1,1 @@
+"""Placeholder module for observatory.pipelines. TODO: Implement high-level orchestration entrypoints."""
