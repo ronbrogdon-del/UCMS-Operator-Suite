@@ -1,0 +1,6 @@
+# Requirements
+
+# Add your project dependencies here
+
+# Example:
+# requests==2.26.0
